@@ -10,6 +10,7 @@ namespace DotNetBatch.AccessModifier
     {
         int hour;
         int rate;
+        int data;
         public HourlyTeacher()
         {
             Console.WriteLine("In Default");
